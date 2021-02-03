@@ -4,7 +4,7 @@
       <tab-bar-item path="/home">
         <img slot="item-icon" src="./assets/img/tabbar/shouye.svg" alt="">
         <img slot="item-active" src="./assets/img/tabbar/chuanshu.svg" alt="">
-        <div slot="item-text">首页1</div>
+        <div slot="item-text">首页</div>
       </tab-bar-item>
       <tab-bar-item path="/category">
         <img slot="item-icon" src="./assets/img/tabbar/fenlei.svg" alt="">
